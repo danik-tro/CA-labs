@@ -1,0 +1,4 @@
+/home/danik-tro/Documents/Educate/Computer_Architecture/AK-lab-2/CMakeFiles/rebuild_cache.dir
+/home/danik-tro/Documents/Educate/Computer_Architecture/AK-lab-2/CMakeFiles/edit_cache.dir
+/home/danik-tro/Documents/Educate/Computer_Architecture/AK-lab-2/CMakeFiles/Main.dir
+/home/danik-tro/Documents/Educate/Computer_Architecture/AK-lab-2/CMakeFiles/calculator.dir
