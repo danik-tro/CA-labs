@@ -15,7 +15,7 @@ struct head_list {
   ktime_t time;
 };
 
-MODULE_AUTHOR("Berezhniuk Andrew");
+MODULE_AUTHOR("Trotsenko Daniil");
 MODULE_DESCRIPTION("Lab7");
 MODULE_LICENSE("Dual BSD/GPL");
 
